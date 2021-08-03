@@ -1,14 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.mergify.io%2Fcontent%2Fimages%2Fsize%2Fw600%2F2021%2F03%2Fmergebanner.jpg&imgrefurl=https%3A%2F%2Fblog.mergify.io%2Fwhy-you-should-be-using-a-merge-bot-in-github%2F&tbnid=Q1lMHBvGYAB1gM&vet=10CIkBEDMopAFqFwoTCNi_47LVk_ICFQAAAAAdAAAAABAC..i&docid=X6yDScitX3tKMM&w=600&h=333&q=free%20github%20banner%20image&ved=0CIkBEDMopAFqFwoTCNi_47LVk_ICFQAAAAAdAAAAABAC)](https://muhammedarshad.com/)
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Muhammed Arshad</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
